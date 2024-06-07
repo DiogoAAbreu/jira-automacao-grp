@@ -1,3 +1,6 @@
 # jira-automacao-grp
 <h1>Automação de Criação de Itens no Jira</h1>
-a
+<h2>Descrição</h2>
+O sistema serve para criar Histórias e SubTarefas dentro das Histórias. A criação é a partir de uma lista de objetos, como no exemplo a seguir:
+
+![image](https://github.com/DiogoAAbreu/jira-automacao-grp/assets/102710131/b95ba8ea-a023-4027-a0ce-6de96a9c9823)
