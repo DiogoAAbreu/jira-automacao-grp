@@ -27,5 +27,5 @@ Para a ultilização, é necessario que você faça um clone deste repositorio e
 
 ![image](https://github.com/DiogoAAbreu/jira-automacao-grp/assets/102710131/7ae59e5b-0eda-442d-a97c-a4f6466a19e1)
 
-
+Após isso, no console, digite "npm i", para instalar todas as bibliotecas necessárias para utilização.
 
