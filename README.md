@@ -27,5 +27,6 @@ Para a ultilização, é necessario que você faça um clone deste repositorio e
 
 ![image](https://github.com/DiogoAAbreu/jira-automacao-grp/assets/102710131/7ae59e5b-0eda-442d-a97c-a4f6466a19e1)
 
-Após isso, no console, digite "npm i", para instalar todas as bibliotecas necessárias para utilização.
+Após isso, no console, digite "npm i", para instalar todas as bibliotecas necessárias para utilização, crie um arquivo chamado ".env" e preencha as variáveis de ambiente com a estrutura contida no ".env.example"
 
+Depois de ter concluido esse processo e preenchido as informações dentro do campo data.js, basta executar o arquivo story.js caso queira criar uma story e o arquivo "subtask.js", utuilizando o comando no console "node nomeArquivo.js"
