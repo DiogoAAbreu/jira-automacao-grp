@@ -12,4 +12,20 @@ A extrutura acima mostra as propriedades que irão servir para a criação das S
 
 O resultado final de cada História criada fica como a imagem acima.
 
+<h3>Criação de Subtarefas</h3>
+Para criar Subtarefas é necessário ter o código da História em que você deseja que as Subtarefas sejam criadas, por exemplo: IVJDF-818.
+Caso queira criar em mais de uma story, pode inserir os códigos correspondente a storys que você deseja que as subtarefas sejam criadas dentro do arquivo data.js, na variável "storys":
+
+![image](https://github.com/DiogoAAbreu/jira-automacao-grp/assets/102710131/354f79b7-93e5-4a7d-aba2-396959e06cc0)
+
+Todas as Subtarefas que deseja criar, precisa ser inserida dentro da variável subtasks, que se encontra dentro do arquivo data.js:
+
+![image](https://github.com/DiogoAAbreu/jira-automacao-grp/assets/102710131/96d50a62-60c5-4fa2-a952-b6b79ce35fa5)
+
+<h2>Como utilizar?</h2>
+Para a ultilização, é necessario que você faça um clone deste repositorio em sua máquina, crie um arquivo data.js com a seguinte estrutura: 
+
+![image](https://github.com/DiogoAAbreu/jira-automacao-grp/assets/102710131/7ae59e5b-0eda-442d-a97c-a4f6466a19e1)
+
+
 
